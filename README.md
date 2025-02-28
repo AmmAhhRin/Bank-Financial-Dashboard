@@ -100,3 +100,7 @@ To ensure an effective analysis, the following steps were taken:
 # Conclusion
 
 This Power BI dashboard offers comprehensive insights into the bank’s financial health, customer behavior, and loan distribution. It serves as a valuable tool for decision-making and strategic planning. Future enhancements could integrate predictive modeling to further refine financial insights.
+
+If there are inquiries regarding the dashboard, please contact: 
+- Email: somphorsyun24@gmail.com
+- LinkedIn: [www.linkedin.com/in/somphorsyun](url)
